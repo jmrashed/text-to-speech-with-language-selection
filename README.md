@@ -1,5 +1,7 @@
 # Text to Speech with Language Selection
 
+<img src="Screenshot 2025-01-27 at 3.39.05 PM.png" alt="Text to Speech with Language Selection" width="100%">
+
 This project is a simple, yet powerful Text-to-Speech (TTS) web application that allows users to convert text into speech in multiple languages. It utilizes the Web Speech API to provide a seamless text-to-speech experience directly in the browser.
 
 ## Features
